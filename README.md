@@ -52,8 +52,8 @@
 - **버튼 hover 효과**: 버튼에 마우스를 올리면 색상이 변경되어 사용자에게 시각적 피드백을 제공합니다.
 - **특수 버튼 스타일링**: `AC`, `DEL` 등의 특수 버튼은 색상을 다르게 설정하여 주요 기능을 강조합니다.
 
-##동작 화면
-![Calculator Demo](assets/calculator-demo.gif)
+## 동작 화면
+![calculator](https://github.com/user-attachments/assets/a9b80319-7f76-40e6-892d-4e2c7a2fe59b)
 
 ## 브랜치 전략
 
