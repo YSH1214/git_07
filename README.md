@@ -32,7 +32,7 @@
    cd calculator-project
 
 2. **파일 실행:**:
-   - index.html 파일을 브라우저에서 열어 계산기를 실행합니다.
+   - `index.html` 파일을 브라우저에서 열어 계산기를 실행합니다.
 
 ## 기능 설명
 
