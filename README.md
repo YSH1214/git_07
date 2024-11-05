@@ -31,12 +31,11 @@
    git clone https://github.com/your-username/calculator-project.git
    cd calculator-project
 
-
----
+2. **파일 실행:**:
+   - index.html 파일을 브라우저에서 열어 계산기를 실행합니다.
 
 ### 기능 설명
 
-```markdown
 ## 기능 설명
 
 ### 기본 계산 기능
